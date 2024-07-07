@@ -35,6 +35,42 @@
         "lng": 13.376933665713324
       },
       "id": "98443197"
+    },
+    {
+      "id": "6d05",
+      "cityName": "Bishkek",
+      "country": "Kyrgyzstan",
+      "emoji": "🇰🇬",
+      "date": "2024-07-07T14:33:48.989Z",
+      "notes": "My love",
+      "position": {
+        "lat": "42.819580715795915",
+        "lng": "74.60815429687501"
+      }
+    },
+    {
+      "id": "ab7c",
+      "cityName": "Almaty",
+      "country": "Kazakhstan",
+      "emoji": "🇰🇿",
+      "date": "2024-07-07T14:34:50.795Z",
+      "notes": "i have been twice",
+      "position": {
+        "lat": "43.23469820355813",
+        "lng": "76.94274902343751"
+      }
+    },
+    {
+      "id": "5924",
+      "cityName": "Istanbul",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-07-07T14:36:44.068Z",
+      "notes": "🎉🎉🎉🎉💓💓💓",
+      "position": {
+        "lat": "41.04052016955174",
+        "lng": "29.07943725585938"
+      }
     }
   ]
 }
