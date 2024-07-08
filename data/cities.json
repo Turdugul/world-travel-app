@@ -71,6 +71,30 @@
         "lat": "41.04052016955174",
         "lng": "29.07943725585938"
       }
+    },
+    {
+      "id": "ddfe",
+      "cityName": "Penelles",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-08T12:09:39.185Z",
+      "notes": "cvxv",
+      "position": {
+        "lat": "41.73852846935917",
+        "lng": "0.9448242187500001"
+      }
+    },
+    {
+      "id": "a4f3",
+      "cityName": "San Roman de Cameros",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-08T12:11:13.123Z",
+      "notes": " vcvcv",
+      "position": {
+        "lat": "42.261049162113856",
+        "lng": "-2.5268554687500004"
+      }
     }
   ]
 }
