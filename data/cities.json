@@ -37,63 +37,15 @@
       "id": "98443197"
     },
     {
-      "id": "6d05",
-      "cityName": "Bishkek",
-      "country": "Kyrgyzstan",
-      "emoji": "🇰🇬",
-      "date": "2024-07-07T14:33:48.989Z",
-      "notes": "My love",
-      "position": {
-        "lat": "42.819580715795915",
-        "lng": "74.60815429687501"
-      }
-    },
-    {
-      "id": "ab7c",
-      "cityName": "Almaty",
-      "country": "Kazakhstan",
-      "emoji": "🇰🇿",
-      "date": "2024-07-07T14:34:50.795Z",
-      "notes": "i have been twice",
-      "position": {
-        "lat": "43.23469820355813",
-        "lng": "76.94274902343751"
-      }
-    },
-    {
-      "id": "5924",
-      "cityName": "Istanbul",
-      "country": "Turkiye",
-      "emoji": "🇹🇷",
-      "date": "2024-07-07T14:36:44.068Z",
-      "notes": "🎉🎉🎉🎉💓💓💓",
-      "position": {
-        "lat": "41.04052016955174",
-        "lng": "29.07943725585938"
-      }
-    },
-    {
-      "id": "ddfe",
-      "cityName": "Penelles",
+      "id": "0f48",
+      "cityName": "Sastago",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2024-07-08T12:09:39.185Z",
-      "notes": "cvxv",
+      "date": "2024-07-08T12:44:54.303Z",
+      "notes": "",
       "position": {
-        "lat": "41.73852846935917",
-        "lng": "0.9448242187500001"
-      }
-    },
-    {
-      "id": "a4f3",
-      "cityName": "San Roman de Cameros",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-07-08T12:11:13.123Z",
-      "notes": " vcvcv",
-      "position": {
-        "lat": "42.261049162113856",
-        "lng": "-2.5268554687500004"
+        "lat": "41.36031866306708",
+        "lng": "-0.37353515625000006"
       }
     }
   ]
