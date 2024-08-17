@@ -47,6 +47,66 @@
         "lat": "41.36031866306708",
         "lng": "-0.37353515625000006"
       }
+    },
+    {
+      "id": "8701",
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-08-17T21:32:22.202Z",
+      "notes": "London",
+      "position": {
+        "lat": "51.536085601784755",
+        "lng": "0.24169921875000003"
+      }
+    },
+    {
+      "id": "d0dd",
+      "cityName": "Dublin Bay",
+      "country": "Ireland",
+      "emoji": "🇮🇪",
+      "date": "2024-08-17T21:33:37.352Z",
+      "notes": "Dublin",
+      "position": {
+        "lat": "53.337433437129675",
+        "lng": "-6.119384765625"
+      }
+    },
+    {
+      "id": "484e",
+      "cityName": "Feuges",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-08-17T21:34:13.790Z",
+      "notes": "dcdcdcsdc",
+      "position": {
+        "lat": "48.40003249610685",
+        "lng": "4.130859375000001"
+      }
+    },
+    {
+      "id": "9230",
+      "cityName": "Hofn",
+      "country": "Iceland",
+      "emoji": "🇮🇸",
+      "date": "2024-08-17T21:34:52.431Z",
+      "notes": "Island Day",
+      "position": {
+        "lat": "64.32087157990325",
+        "lng": "-17.050781250000004"
+      }
+    },
+    {
+      "id": "9130",
+      "cityName": "Denmark",
+      "country": "Denmark",
+      "emoji": "🇩🇰",
+      "date": "2024-08-17T21:35:25.270Z",
+      "notes": "fasgdhjSAD",
+      "position": {
+        "lat": "54.87660665410869",
+        "lng": "12.656250000000002"
+      }
     }
   ]
 }
