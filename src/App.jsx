@@ -17,18 +17,12 @@ const PageNotFound = lazy(() => import("./pages/PageNotFound"));
 const AppLayout = lazy(() => import("./pages/AppLayout"));
 const Login = lazy(() => import("./pages/Login"));
 
-// import Product from "./pages/Product";
-// import Pricing from "./pages/Pricing";
-// import HomePage from "./pages/HomePage";
-// import PageNotFound from "./pages/PageNotFound";
-// import AppLayout from "./pages/AppLayout";
-// import Login from "./pages/Login";
 
 function App() {
   return (
     <AuthProvider>
       <CitiesProvider>
-        <BrowserRouter basename="/world-travel-app">
+        <BrowserRouter >
           <Suspense fallback={<SpinnerFullPage />}>
             <Routes>
               <Route path="/" element={<HomePage />} />
